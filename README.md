@@ -1,5 +1,7 @@
 # trainingaidhanis - Dhaniswara Package
-A helper pip package for trainingaidenzelphynew
+A helper pip package for trainingaidhanis
+
+NOTE: THIS IS ONLY A TEST FUCNTION, NOT A FINAL PROJECT. DO NOT RELY ON RESULT.
 
 ### Assumptions:
 + Assuming python is installed on your system.
